@@ -2,10 +2,7 @@
 "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang = "en-US">
 <head>
-<meta charset="UTF-8" />
 <title>Anonymous StartUps</title>
-<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
-<script src = css.js></script>
 </head>
 <body>
     <center><h1>So... Seeking a StartUp??? How About One Of These
