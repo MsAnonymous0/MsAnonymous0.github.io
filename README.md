@@ -3,7 +3,7 @@
 </head>
 <body>
     <center><h1>So... Seeking a StartUp??? How About One Of These
-    <img src = "https://MsAnonymous0.github.io/blob/main/arrow2.png" width = "50" height = "30"></h1>
+    <img src = "[[https://MsAnonymous0.github.io/blob/main/arrow2.png](https://github.com/MsAnonymous0/MsAnonymous0.github.io/blob/main/arrow2.png)](https://github.com/MsAnonymous0/MsAnonymous0.github.io/blob/main/arrow2.png)" width = "50" height = "30"></h1>
     </center>
 <br>
 <br>
@@ -32,7 +32,7 @@
 <br>
 <br>
 <br>
-<br
+<br>
     <center>
         CONTACT:
         <h5><p>Email: ms.anonymous.0.incognito.0@gmail.com</p>
