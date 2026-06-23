@@ -34,6 +34,11 @@
 <br>
 <br>
     <center>
+<button onclick-"myFunction()">About</button>
+<script>function myFunction(){alert ("AboutAbout");}</script>
+
+    
+        
         CONTACT:
         <h5><p>Email: ms.anonymous.0.incognito.0@gmail.com</p>
         <p>Discord: https://discord.gg/NtfHEJYJT</p></h5>
